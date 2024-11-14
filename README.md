@@ -16,7 +16,7 @@ Installation
 
 Steps to run the project locally
 1.Clone the repository:
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/PrakashPatange/amazon-clone.git
 2.Navigate into the project directory:
 cd amazon-clone
 3.Open the index.html file in your browser:
